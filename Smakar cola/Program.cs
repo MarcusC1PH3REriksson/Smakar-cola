@@ -6,7 +6,7 @@ namespace Smakar_cola
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Tjena världen!");
         }
     }
 }
